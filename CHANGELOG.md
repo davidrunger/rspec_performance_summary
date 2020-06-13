@@ -2,6 +2,7 @@
 ### Docs
 - Mentioned that the general code approach was modelled on
   [rspec-retry](https://github.com/NoRedInk/rspec-retry).
+- Add installation and usage instructions.
 
 ## 0.1.0 - 2020-06-13
 ### Initial release

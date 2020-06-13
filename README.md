@@ -20,11 +20,15 @@ And then execute:
 
 ## Installation
 
-[TODO: Write installation instructions here]
+Add this to the `spec/spec_helper.rb` file in your project:
+```rb
+require 'rspec_performance_summary'
+```
 
 ## Usage
 
-[TODO: Write usage instructions here]
+Just run one or more of your RSpec tests! The performance summary should be printed automatically
+after the tests have completed.
 
 ## Credit
 
