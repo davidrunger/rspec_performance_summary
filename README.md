@@ -28,7 +28,11 @@ And then execute:
 
 ## Credit
 
-I borrowed this code from https://coderwall.com/p/l3nl_w/measure-spec-execution-time .
+I borrowed this code for the performance logging from
+https://coderwall.com/p/l3nl_w/measure-spec-execution-time .
+
+I borrowed the general code approach for plugging into RSpec from a gem from
+[rspec-retry](https://github.com/NoRedInk/rspec-retry).
 
 ## Development
 
