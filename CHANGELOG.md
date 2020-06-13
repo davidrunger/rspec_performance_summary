@@ -1,4 +1,7 @@
 ## Unreleased
+### Fixed
+- Add `rspec-core` as an explicit dependency
+
 ### Docs
 - Consolidate duplicate "Installation" sections in README.md
 
