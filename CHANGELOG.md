@@ -1,4 +1,4 @@
-## Unreleased
+## 0.1.1 - 2020-06-13
 ### Docs
 - Mentioned that the general code approach was modelled on
   [rspec-retry](https://github.com/NoRedInk/rspec-retry).
