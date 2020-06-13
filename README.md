@@ -18,9 +18,7 @@ And then execute:
 
     $ bundle install
 
-## Installation
-
-Add this to the `spec/spec_helper.rb` file in your project:
+Finally, add this to the `spec/spec_helper.rb` file in your project:
 ```rb
 require 'rspec_performance_summary'
 ```

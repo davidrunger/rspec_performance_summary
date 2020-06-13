@@ -1,3 +1,7 @@
+## Unreleased
+### Docs
+- Consolidate duplicate "Installation" sections in README.md
+
 ## 0.1.1 - 2020-06-13
 ### Docs
 - Mentioned that the general code approach was modelled on
