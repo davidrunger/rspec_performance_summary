@@ -26,6 +26,10 @@ And then execute:
 
 [TODO: Write usage instructions here]
 
+## Credit
+
+I borrowed this code from https://coderwall.com/p/l3nl_w/measure-spec-execution-time .
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run
