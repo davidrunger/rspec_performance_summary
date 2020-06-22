@@ -1,3 +1,7 @@
+## Unreleased
+### Docs
+- Add screenshot to README.md
+
 ## 0.1.2 - 2020-06-13
 ### Fixed
 - Add `rspec-core` as an explicit dependency
