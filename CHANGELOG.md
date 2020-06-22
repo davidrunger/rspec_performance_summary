@@ -1,4 +1,4 @@
-## Unreleased
+## v0.1.3 (2020-06-21)
 ### Docs
 - Add screenshot to README.md
 - Add a table of contents to README.md
