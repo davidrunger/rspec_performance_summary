@@ -19,9 +19,10 @@ Gem::Specification.new do |spec|
   spec.metadata['changelog_uri'] =
     'https://github.com/davidrunger/rspec_performance_summary/blob/master/CHANGELOG.md'
 
-  spec.files = Dir.chdir(File.expand_path(__dir__)) do
-    `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
-  end
+  spec.files =
+    Dir.chdir(File.expand_path(__dir__)) do
+      `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
+    end
   spec.require_paths = ['lib']
 
   spec.add_runtime_dependency 'rspec-core', '~> 3.0'
