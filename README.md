@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/davidrunger/rspec_performance_summary.svg?branch=master)](https://travis-ci.com/github/davidrunger/rspec_performance_summary)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=davidrunger/rspec_performance_summary)](https://dependabot.com)
+![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/davidrunger/rspec_performance_summary?include_prereleases)
+
 # RspecPerformanceSummary
 
 Print the execution time of your slowest RSpec examples.

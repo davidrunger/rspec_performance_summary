@@ -2,6 +2,7 @@
 ### Docs
 - Add screenshot to README.md
 - Add a table of contents to README.md
+- Add badges to README.md (Travis, Dependabot, GitHub version tag)
 
 ### Maintenance
 - Tweak Travis config (add `os` and `dist` specifications, remove `gem install bundler -v 2.1.4`,
