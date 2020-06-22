@@ -2,6 +2,8 @@
 
 Print the execution time of your slowest RSpec examples.
 
+![rspec_performance_summary screenshot](https://user-images.githubusercontent.com/8197963/85248189-f61a2980-b404-11ea-8eef-503b43808d63.png)
+
 ## Installation
 
 Add the gem to the `test` group of your application's `Gemfile`. Because the gem is not released via
