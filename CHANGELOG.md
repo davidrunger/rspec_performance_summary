@@ -1,4 +1,4 @@
-## Unreleased
+## v0.1.4 (2020-06-21)
 ### Docs
 - Remove explicit `git push` from release instructions
 
