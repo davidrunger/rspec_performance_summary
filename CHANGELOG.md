@@ -1,3 +1,7 @@
+## Unreleased
+### Docs
+- Remove explicit `git push` from release instructions
+
 ## v0.1.3 (2020-06-21)
 ### Docs
 - Add screenshot to README.md
