@@ -1,6 +1,7 @@
 ## Unreleased
 ### Docs
 - Add screenshot to README.md
+- Add a table of contents to README.md
 
 ### Maintenance
 - Tweak Travis config (add `os` and `dist` specifications, remove `gem install bundler -v 2.1.4`,
