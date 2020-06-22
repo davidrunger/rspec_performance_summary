@@ -2,6 +2,10 @@
 ### Docs
 - Add screenshot to README.md
 
+### Maintenance
+- Tweak Travis config (add `os` and `dist` specifications, remove `gem install bundler -v 2.1.4`,
+  only send emails when builds fail, run `rubocop`, run RSpec via `bin/rspec`).
+
 ## 0.1.2 - 2020-06-13
 ### Fixed
 - Add `rspec-core` as an explicit dependency
