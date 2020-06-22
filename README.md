@@ -4,8 +4,11 @@ Print the execution time of your slowest RSpec examples.
 
 ![rspec_performance_summary screenshot](https://user-images.githubusercontent.com/8197963/85248189-f61a2980-b404-11ea-8eef-503b43808d63.png)
 
+# Table of Contents
+
 <!--ts-->
    * [RspecPerformanceSummary](#rspecperformancesummary)
+   * [Table of Contents](#table-of-contents)
    * [Installation](#installation)
    * [Usage](#usage)
    * [Credit](#credit)
@@ -13,7 +16,7 @@ Print the execution time of your slowest RSpec examples.
    * [For maintainers](#for-maintainers)
    * [License](#license)
 
-<!-- Added by: david, at: Sun Jun 21 21:53:07 PDT 2020 -->
+<!-- Added by: david, at: Sun Jun 21 21:56:23 PDT 2020 -->
 
 <!--te-->
 
