@@ -1,7 +1,13 @@
+GIT
+  remote: https://github.com/davidrunger/runger_style.git
+  revision: 6aef7c7978c9b5306e518c18a067e2fdad2c8da1
+  specs:
+    runger_style (0.2.1)
+
 PATH
   remote: .
   specs:
-    rspec_performance_summary (0.1.4)
+    rspec_performance_summary (0.1.5.alpha)
       rspec-core (~> 3.0)
 
 GEM
@@ -40,6 +46,10 @@ GEM
       unicode-display_width (>= 1.4.0, < 2.0)
     rubocop-ast (0.0.3)
       parser (>= 2.7.0.1)
+    rubocop-performance (1.6.1)
+      rubocop (>= 0.71.0)
+    rubocop-rspec (1.40.0)
+      rubocop (>= 0.68.1)
     ruby-progressbar (1.10.1)
     unicode-display_width (1.7.0)
 
@@ -51,6 +61,9 @@ DEPENDENCIES
   rspec (~> 3.0)
   rspec_performance_summary!
   rubocop
+  rubocop-performance
+  rubocop-rspec
+  runger_style!
 
 BUNDLED WITH
    2.1.4

@@ -1,3 +1,7 @@
+## Unreleased
+### Internal
+- Source Rubocop rules/config from `runger_style` gem
+
 ## v0.1.4 (2020-06-21)
 ### Docs
 - Remove explicit `git push` from release instructions
