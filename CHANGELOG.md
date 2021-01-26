@@ -1,6 +1,7 @@
 ## Unreleased
 ### Internal
 - Move CI from Travis to GitHub Actions
+- Use `release_assistant` gem to manage the release process
 
 ## v0.1.5 (2020-07-02)
 ### Internal
