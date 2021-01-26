@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
 module RspecPerformanceSummary
-  VERSION = '0.1.7.alpha'
+  VERSION = '0.1.7'
 end
