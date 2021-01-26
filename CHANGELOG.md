@@ -1,3 +1,7 @@
+## Unreleased
+### Internal
+- Move CI from Travis to GitHub Actions
+
 ## v0.1.5 (2020-07-02)
 ### Internal
 - Source Rubocop rules/config from `runger_style` gem
