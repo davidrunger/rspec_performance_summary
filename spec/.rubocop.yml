@@ -5,7 +5,7 @@ Lint/AmbiguousBlockAssociation:
 Style/IpAddresses:
   Enabled: false
 Style/MethodCallWithArgsParentheses:
-  IgnoredMethods:
+  AllowedMethods:
     - describe
     - include
     - not_to
