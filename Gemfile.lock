@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/davidrunger/release_assistant.git
-  revision: 5951797842420988b0307c45afd7972b26a877b6
+  revision: a6d1ec80af5163a577ad9e761314929c32a2d7a7
   specs:
     release_assistant (0.3.3.alpha)
       activesupport (>= 6, < 8)
@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: https://github.com/davidrunger/runger_style.git
-  revision: 8d8667f5b5b36bd801d380e97ca3bab88da96e21
+  revision: 805f6213ac0cf5ec13812a04f2b9a735bd656d6b
   specs:
     runger_style (0.2.22.alpha)
       rubocop (>= 1.38.0, < 2)
@@ -49,12 +49,12 @@ GEM
       rspec-core (~> 3.12.0)
       rspec-expectations (~> 3.12.0)
       rspec-mocks (~> 3.12.0)
-    rspec-core (3.12.0)
+    rspec-core (3.12.1)
       rspec-support (~> 3.12.0)
-    rspec-expectations (3.12.0)
+    rspec-expectations (3.12.2)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.12.0)
-    rspec-mocks (3.12.0)
+    rspec-mocks (3.12.3)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.12.0)
     rspec-support (3.12.0)
@@ -72,7 +72,7 @@ GEM
       parser (>= 3.1.1.0)
     rubocop-capybara (2.17.0)
       rubocop (~> 1.41)
-    rubocop-performance (1.15.2)
+    rubocop-performance (1.16.0)
       rubocop (>= 1.7.0, < 2.0)
       rubocop-ast (>= 0.4.0)
     rubocop-rspec (2.18.1)
