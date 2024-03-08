@@ -1,4 +1,4 @@
-## Unreleased
+## v1.0.0 (2024-03-08)
 - Bump required minimum Ruby version from 3.2 to 3.3.0
 
 ## v0.1.7 (2021-01-26)
