@@ -25,6 +25,7 @@ GEM
     parser (3.3.0.5)
       ast (~> 2.4.1)
       racc
+    prism (0.24.0)
     racc (1.7.3)
     rainbow (3.1.1)
     rake (13.1.0)
@@ -73,7 +74,8 @@ GEM
       memo_wise (>= 1.7, < 2)
       rainbow (>= 3.0, < 4)
       slop (~> 4.8)
-    runger_style (0.6.0)
+    runger_style (2.0.0)
+      prism (>= 0.24.0)
       rubocop (>= 1.38.0, < 2)
     slop (4.10.1)
     tzinfo (2.0.6)
