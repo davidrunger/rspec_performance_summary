@@ -1,5 +1,5 @@
 ## Unreleased
-[no unreleased changes yet]
+- Bump required minimum Ruby version from 3.2 to 3.3.0
 
 ## v0.1.7 (2021-01-26)
 ### Dependencies
