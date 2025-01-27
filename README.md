@@ -1,6 +1,6 @@
 ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/davidrunger/rspec_performance_summary?include_prereleases)
 
-# You don't need this gem!
+# ⚠️ You don't need this gem! ⚠️
 
 Instead, use RSpec's [`config.profile_examples`][profile_examples] option (which I was not aware of when I wrote this gem 😅).
 
