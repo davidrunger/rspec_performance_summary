@@ -15,16 +15,18 @@ Print the execution time of your slowest RSpec examples.
 # Table of Contents
 
 <!--ts-->
-   * [RspecPerformanceSummary](#rspecperformancesummary)
-   * [Table of Contents](#table-of-contents)
-   * [Installation](#installation)
-   * [Usage](#usage)
-   * [Credit](#credit)
-   * [Development](#development)
-   * [For maintainers](#for-maintainers)
-   * [License](#license)
+* [You don't need this gem!](#you-dont-need-this-gem)
+* [RspecPerformanceSummary](#rspecperformancesummary)
+* [Table of Contents](#table-of-contents)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credit](#credit)
+* [Development](#development)
+* [For maintainers](#for-maintainers)
+* [License](#license)
 
-<!-- Added by: david, at: Sun Jun 21 21:56:23 PDT 2020 -->
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+<!-- Added by: david, at: Mon Jan 27 11:14:41 AM CST 2025 -->
 
 <!--te-->
 
