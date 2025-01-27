@@ -2,7 +2,7 @@
 
 # You don't need this gem!
 
-Instead, use RSpec's [`config.profile_examples`][profile_examples] option (which I was not aware of when I wrote this gem 🙃).
+Instead, use RSpec's [`config.profile_examples`][profile_examples] option (which I was not aware of when I wrote this gem 😅).
 
 [profile_examples]: https://rspec.info/features/3-13/rspec-core/configuration/profile/
 
