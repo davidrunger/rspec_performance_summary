@@ -1,5 +1,11 @@
 ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/davidrunger/rspec_performance_summary?include_prereleases)
 
+# You don't need this gem!
+
+Instead, use RSpec's [`config.profile_examples`][profile_examples] option (which I was not aware of when I wrote this gem 🙃).
+
+[profile_examples]: https://rspec.info/features/3-13/rspec-core/configuration/profile/
+
 # RspecPerformanceSummary
 
 Print the execution time of your slowest RSpec examples.
