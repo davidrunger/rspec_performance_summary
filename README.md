@@ -1,5 +1,11 @@
 ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/davidrunger/rspec_performance_summary?include_prereleases)
 
+# You don't need this gem!
+
+Instead, use RSpec's [`config.profile_examples`][profile_examples] option (which I was not aware of when I wrote this gem 😅).
+
+[profile_examples]: https://rspec.info/features/3-13/rspec-core/configuration/profile/
+
 # RspecPerformanceSummary
 
 Print the execution time of your slowest RSpec examples.
@@ -9,16 +15,18 @@ Print the execution time of your slowest RSpec examples.
 # Table of Contents
 
 <!--ts-->
-   * [RspecPerformanceSummary](#rspecperformancesummary)
-   * [Table of Contents](#table-of-contents)
-   * [Installation](#installation)
-   * [Usage](#usage)
-   * [Credit](#credit)
-   * [Development](#development)
-   * [For maintainers](#for-maintainers)
-   * [License](#license)
+* [You don't need this gem!](#you-dont-need-this-gem)
+* [RspecPerformanceSummary](#rspecperformancesummary)
+* [Table of Contents](#table-of-contents)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credit](#credit)
+* [Development](#development)
+* [For maintainers](#for-maintainers)
+* [License](#license)
 
-<!-- Added by: david, at: Sun Jun 21 21:56:23 PDT 2020 -->
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+<!-- Added by: david, at: Mon Jan 27 11:14:41 AM CST 2025 -->
 
 <!--te-->
 
